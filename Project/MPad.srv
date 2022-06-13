@@ -1,0 +1,12 @@
+int16 x
+int16 y
+int16 z
+int16 x2
+int16 y2
+int16 z2
+int16 speed
+int16 rot
+string pad1
+string pad2
+---
+string result
